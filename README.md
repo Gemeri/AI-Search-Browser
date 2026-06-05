@@ -1,2 +1,2 @@
-# alvely
-Ai search app
+# Alvely
+AI search browser
